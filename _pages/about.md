@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Matt. I use math to learn new things about real systems.
+My name is Matt. I use math to study complex systems, particularly group dynamics.
 
-I earned a Ph.D. in mathematics from Dartmouth College under Feng Fu. My thesis is titled "Evolutionary Dynamics of Collective Action Problems." Currently, I am a postdoc at Yale University working with Nicholas Christakis in the Yale Institue for Network Science and the Human Nature Lab.
+I earned a Ph.D. in mathematics from Dartmouth College under Feng Fu for my thesis titled "Evolutionary Dynamics of Collective Action Problems." Currently, I am a postdoc at Yale University working with Nicholas Christakis in the Yale Institue for Network Science and the Human Nature Lab.
 
