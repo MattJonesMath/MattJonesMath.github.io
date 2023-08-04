@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+I had many opportunities to work with students as a graduate student at Dartmouth College. 
+
 **Courses I was an instructor**
 
 Fall 2021: [Math 36](https://math.dartmouth.edu/~m36f21/index.php) - Mathematical Models in the Social Sciences

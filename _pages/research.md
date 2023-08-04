@@ -13,7 +13,11 @@ author_profile: true
 
 **Research Interests**
 
-My research interests include networks and game theory. blah blah blah.
+My research interests are broad and interdisciplinary, but they center around using mathematical ideas from network science, game theory, and probability to build and analyze models of complex social systems. To me, mathematics is a set of powerful tools to better understand the increasingly complex world around us. New modes of group behavior continue to emerge in our society, and I work every day to understand how these complex systems function and how to adjust them to bring about a better world. My work involves a mix of mathematical analysis, computer simulation, and real-world data.
+
+The papers below include work on group coordination, polarization, misinformation, multi-issue decision-making and voting, and catch-and-release fishing.
+
+I have research ongoing projects on homophily and cooperation, group creativity, leader influence on group consensus, and vote trading.
 
 **Published Papers**
 
