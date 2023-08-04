@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Matthew I. Jones"
 title_separator          : "-"
 name                     : &name "Dr. Matthew I. Jones"
-description              : &description "Postdoctoral Associate at Yale University"
+description              : &description "Personal academic page for Matt Jones, currently a postdoc at Yale University"
 url                      : https://mattjonesmath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mattjonesmath/mattjonesmath.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Matthew I. Jones"
-  avatar           : "profile.png"
+  avatar           : "square_headshot.jpg"
   bio              : "Postdoc at Yale University"
   location         : "New Haven, CT"
   employer         : "Yale University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=di7Z_VcAAAAJ&hl=en"
+  email            : "matt.jones@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mattjonesmath"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9972-6367"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
