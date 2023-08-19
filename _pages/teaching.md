@@ -31,6 +31,6 @@ Fall 2017: Math 13 - Calculus of Vector-valued Functions
 
 In 2020-2021, I was a graduate mentor in the [Dartmouth Rurual STEM Educator Partnership](https://sepa.host.dartmouth.edu/) working to design STEM programs for middle schools in rural New Hampshire and Vermont.
 
-In 2021-2022, I was a graduate mentor in the [Directed Reading Program](https://math.dartmouth.edu/~drp/) in Dartmouth's math department. I mentored a total of three students as they read about networks and game theory.
+In 2021-2022, I was a graduate mentor in the [Directed Reading Program](https://math.dartmouth.edu/~drp/) in Dartmouth's math department. I mentored three students as they read about networks and game theory.
 
 In 2021, I was awarded the Dartmouth math department's [Ken Bogart Teaching Award](https://math.dartmouth.edu/news-resources/prizes/#:~:text=Bogart%20Teaching%20Award,educational%20mission%20of%20the%20department.).
