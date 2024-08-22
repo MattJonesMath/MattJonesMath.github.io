@@ -31,6 +31,10 @@ My research interests are broad and interdisciplinary, but they center around us
 
 **Preprints**
 
+[Bringing Leaders of Network Sub-Groups Closer Together Does Not Facilitate Consensus](https://arxiv.org/abs/2408.09309) (with N. Christakis), arXiv: 2408.09309, 2024 [(pdf)](/files/Preprint%20-%20Leadership%20Insularity%20v%201.4.pdf)
+
+[New fairness criteria for truncated ballots in multi-winner ranked-choice elections](https://arxiv.org/abs/2408.03926) (with A. Graham-Squire and D. McCune), arXiv: 2408.03926, 2024 [(pdf)](/files/Preprint%20-%20New%20Fairness%20Criteria%20for%20Truncated%20Ballots%20in%20Multi-winner%20Ranked-choice%20Elections.pdf)
+
 [Equilibria and Group Welfare in Vote Trading Systems](https://arxiv.org/abs/2406.09536), arXiv: 2406.09536, 2024 [(pdf)](/files/Preprint%20-%20Equilibria%20and%20Group%20Welfare%20in%20Vote%20Trading%20Systems.pdf)
 
 [It Is Easy For Multi-Issue Bundles To Advance Anti-Democratic Agendas](https://arxiv.org/abs/2307.11873) (with M. Chervenak and N. Christakis), arXiv: 2307.11873, 2023 [(pdf)](/files/Preprint%20-%20It%20Is%20Easy%20For%20Multi-Issue%20Bundles%20To%20Advance%20Anti-Democratic%20Agendas.pdf)
