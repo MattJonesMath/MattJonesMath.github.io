@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+**Colby College**
+
+Fall 2025: MA 381 - Probability
+
+Fall 2025: MA 262 - Vector Calculus
+
 **College of the Holy Cross courses**
 
 Fall 2024: Math 135 - Calculus 1 (two sections)

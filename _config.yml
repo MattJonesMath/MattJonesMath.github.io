@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matthew I. Jones"
   avatar           : "square_headshot.jpg"
-  bio              : "Visiting Assistant Professor"
-  location         : # "New Haven, CT"
-  employer         : "College of the Holy Cross"
+  bio              : "Assistant Professor of Mathematics"
+  location         : "Waterville, ME"
+  employer         : "Colby College"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=di7Z_VcAAAAJ&hl=en"
-  email            : "mijones@holycross.edu"
+  email            : "mijones@colby.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
