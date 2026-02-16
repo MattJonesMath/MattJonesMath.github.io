@@ -17,7 +17,9 @@ redirect_from:
 >
 > -- <cite>Leopold Kronecker</cite>
 
-My name is Matt. I use math to study complex systems, particularly group dynamics.
+My name is Matt. I use math to study complex systems and group dynamics, particularly how groups make decisions (mathematical democracy) and how group structure influences group behavior (network science).
 
-I earned a Ph.D. in mathematics from Dartmouth College under [Feng Fu](https://mhl.host.dartmouth.edu/) for my thesis titled, "Evolutionary Dynamics of Collective Action Problems." From 2022 to 2024, I was a postdoctoral associate at Yale University working with Nicholas Christakis in the Yale Institute for Network Science and the Human Nature Lab. Now, I am a Visiting Assistant Professor at the College of the Holy Cross.
+I earned a Ph.D. in mathematics from Dartmouth College under [Feng Fu](https://mhl.host.dartmouth.edu/) for my thesis titled, "Evolutionary Dynamics of Collective Action Problems." From 2022 to 2024, I was a postdoctoral associate at Yale University working with Nicholas Christakis in the Yale Institute for Network Science and the Human Nature Lab. After that I spent a year as a Visiting Assistant Professor at the College of the Holy Cross.
+
+I am currently an Assistant Professor of Mathematics at Colby College.
 
