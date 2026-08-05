@@ -31,9 +31,9 @@ My research interests are broad and interdisciplinary, but center around using m
 
 **Voting and Democracy Papers**
 
-[New fairness criteria for truncated ballots in multi-winner ranked-choice elections](https://arxiv.org/abs/2408.03926) (with A. Graham-Squire and D. McCune), arXiv: 2408.03926, 2024 [(pdf)](/files/Preprint%20-%20New%20Fairness%20Criteria%20for%20Truncated%20Ballots%20in%20Multi-winner%20Ranked-choice%20Elections.pdf)
+[New fairness criteria for truncated ballots in multi-winner ranked-choice elections](https://www.sciencedirect.com/science/article/abs/pii/S0165489626000132) (with A. Graham-Squire and D. McCune), Mathematical Social Sciences, 2026 [(pdf)](/files/New%20Fairness%20Criteria%20for%20Truncated%20Ballots%20in%20Multi-winner%20Ranked-choice%20Elections.pdf)
 
-[Equilibria and Group Welfare in Vote Trading Systems](https://link.springer.com/article/10.1007/s00355-025-01606-w), Social Choice and Welfare, 2024 [(pdf)](/files/Equilibria%20and%20group%20welfare%20in%20vote%20trading%20systems.pdf)
+[Equilibria and Group Welfare in Vote Trading Systems](https://link.springer.com/article/10.1007/s00355-025-01606-w), Social Choice and Welfare, 2026 [(pdf)](/files/Equilibria%20and%20group%20welfare%20in%20vote%20trading%20systems.pdf)
 
 [Polarization, abstention, and the median voter theorem](https://www.nature.com/articles/s41599-022-01056-0) (with A. Sirianni and F. Fu), Humanities and Social Science Communications 9(43), 2022 [(pdf)](/files/Polarization,%20abstention,%20and%20the%20median%20voter%20theorem.pdf)
 
