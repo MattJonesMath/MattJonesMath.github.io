@@ -27,19 +27,25 @@ My research interests are broad and interdisciplinary, but center around using m
 
 [Random choices facilitate solutions to collective network coloring problems by artificial agents](https://www.cell.com/iscience/fulltext/S2589-0042(21)00308-4) (with S. Pauls and F. Fu), iScience 24(4), 2021 [(pdf)](/files/Random%20choices%20facilitate%20solutions%20to%20collective%20network%20coloring%20problems%20by%20artificial%20agents.pdf)
 
+[Preprint - Counting Strict Gridlock on Graphs](https://arxiv.org/abs/2603.18289) (with Z. Winkeler), arXiv: 2603.18289, 2026 [(pdf)](/files/Preprint%20-%20Counting%20Strict%20Gridlock%20on%20Graphs.pdf)
+
 **Voting and Democracy Papers**
 
-[Preprint - New fairness criteria for truncated ballots in multi-winner ranked-choice elections](https://arxiv.org/abs/2408.03926) (with A. Graham-Squire and D. McCune), arXiv: 2408.03926, 2024 [(pdf)](/files/Preprint%20-%20New%20Fairness%20Criteria%20for%20Truncated%20Ballots%20in%20Multi-winner%20Ranked-choice%20Elections.pdf)
+[New fairness criteria for truncated ballots in multi-winner ranked-choice elections](https://arxiv.org/abs/2408.03926) (with A. Graham-Squire and D. McCune), arXiv: 2408.03926, 2024 [(pdf)](/files/Preprint%20-%20New%20Fairness%20Criteria%20for%20Truncated%20Ballots%20in%20Multi-winner%20Ranked-choice%20Elections.pdf)
 
 [Equilibria and Group Welfare in Vote Trading Systems](https://link.springer.com/article/10.1007/s00355-025-01606-w), Social Choice and Welfare, 2024 [(pdf)](/files/Equilibria%20and%20group%20welfare%20in%20vote%20trading%20systems.pdf)
 
-[Preprint - It Is Easy For Multi-Issue Bundles To Advance Anti-Democratic Agendas](https://arxiv.org/abs/2307.11873) (with M. Chervenak and N. Christakis), arXiv: 2307.11873, 2023 [(pdf)](/files/Preprint%20-%20It%20Is%20Easy%20For%20Multi-Issue%20Bundles%20To%20Advance%20Anti-Democratic%20Agendas.pdf)
-
 [Polarization, abstention, and the median voter theorem](https://www.nature.com/articles/s41599-022-01056-0) (with A. Sirianni and F. Fu), Humanities and Social Science Communications 9(43), 2022 [(pdf)](/files/Polarization,%20abstention,%20and%20the%20median%20voter%20theorem.pdf)
+
+[Preprint - Candidate Moderation under Instant Runoff and Condorcet Voting: Evidence from the Cooperative Election Study](https://arxiv.org/abs/2603.03619) (with D. McCune, A. Schultz, A. Graham-Squire, I. Volic, B. See, K. Xiao, and M. Mukundan), arXiv: 2603.03619, 2026 [(pdf)](/files/Preprint%20-%20Candidate%20Moderation%20Under%20Instant%20Runoff%20and%20Condorcet%20Voting.pdf)
+
+[Preprint - It Is Easy For Multi-Issue Bundles To Advance Anti-Democratic Agendas](https://arxiv.org/abs/2307.11873) (with M. Chervenak and N. Christakis), arXiv: 2307.11873, 2023 [(pdf)](/files/Preprint%20-%20It%20Is%20Easy%20For%20Multi-Issue%20Bundles%20To%20Advance%20Anti-Democratic%20Agendas.pdf)
 
 **Other Projects**
 
 [Estimating Recycling of Fish in Catch-and-Release Fisheries](https://afspubs.onlinelibrary.wiley.com/doi/full/10.1002/fsh.10824) (with T. Jones, M. Treml, and T. Heinrich), Fisheries 47(12), 2022 [(pdf)](/files/Estimating%20Recycling%20of%20Fish%20in%20Catch‐and‐Release%20Fisheries.pdf)
+
+[Preprint - The Minimal Group Paradigm Revisited: On the Design and Testing of AI-Generated Preference-Indifferent Avatars for Online Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5701822) (with A. Oaks, K. Xu, F. Feng, and N. Christakis), SSRN: 5701822, 2025 [(pdf)](/files/Preprint%20-%20The%20Minimal%20Group%20Paradigm%20Revisited.pdf)
 
 
 **Ph.D. Thesis**

@@ -7,7 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-**Colby College**
+**Colby College courses**
+
+Spring 2027: MA 381 - Probability
+
+spring 2027: MA 253 - Linear Algebra
+
+Fall 2026: MA 381 - Probability
+
+Fall 2026: MA 160 - Series and Multi-variable Calculus (two sections)
+
+Spring 2026: MA 381 - Probability
+
+spring 2026: MA 262 - Vector Calculus
 
 Fall 2025: MA 381 - Probability
 
